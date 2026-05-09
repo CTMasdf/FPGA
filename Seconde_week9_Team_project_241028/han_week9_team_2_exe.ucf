@@ -1,0 +1,17 @@
+#2021041091 2학년 3반 한규철, 2021041089_2학년_3반_최태민
+#9주차 팀과제 링 카운터 로드 추가
+
+#input
+net "CLK" loc = c9; # CLOCK EVENT
+net "RST" loc = j12; # RESET (EV3)
+net "LOAD" LOC = K14; # LOAD0 (EV0)
+
+#OUTPUT
+NET "DQ(0)" LOC = C7; # Y0
+NET "DQ(1)" LOC = D5; # Y1
+NET "DQ(2)" LOC = D8; # Y2
+NET "DQ(3)" LOC = E7; # Y3
+NET "BUZZER" LOC = E11; # BUZZER 
+NET "PWM(0)" LOC = D12; # R
+NET "PWM(1)" LOC = D9;  # G 
+NET "PWM(2)" LOC = C11; # B

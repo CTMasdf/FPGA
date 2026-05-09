@@ -1,0 +1,12 @@
+#2021041091 2학년 3반 한규철, 2021041089_2학년_3반_최태민
+#9주차 팀 과제 존슨 카운터 ucf
+
+#input
+net "CLK" loc = c9;  # clock event
+net "RST" loc = j12; # ev3 button
+
+#output 
+net "DQ(0)" loc = c7; #y0
+net "DQ(1)" loc = d5; #y1
+net "DQ(2)" loc = d8; #y2
+net "DQ(3)" loc = e7; #y3

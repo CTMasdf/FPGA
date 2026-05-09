@@ -1,0 +1,20 @@
+# ripple_counter
+# 2학년3반_2021041089_최태민, 2학년3반_2021041091_한규철
+
+# input 
+net "CLK"	LOC = C9;	#Clock Event (NE555)
+net "RST"	LOC = J12;	#EV3
+net "LOAD"	LOC = K14;	#EV0
+
+#output
+net "JQ(0)"	LOC = C7;	#Y0
+net "JQ(1)"	LOC = D5;	#Y1
+net "JQ(2)"	LOC = D8;	#Y2
+net "JQ(3)"	LOC = E7;	#Y3
+
+net "STEP(0)"	LOC = F7;	#Y4
+net "STEP(1)"	LOC = A12;	#Y5
+net "STEP(2)"	LOC = A14;	#Y6
+net "STEP(3)"	LOC = B12;	#Y7
+
+net "BEEP"	LOC = E11;	#부저
