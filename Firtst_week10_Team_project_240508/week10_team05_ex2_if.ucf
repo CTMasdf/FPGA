@@ -1,0 +1,16 @@
+## week10
+## week10_team05_ex2_if
+## 2학년 2반 2021041089 최태민. 2학년 2반 2021041043 서재권
+
+
+#INPUT 설정 ; x
+NET "x(0)" LOC=R7;
+NET "x(1)" LOC=M7;
+NET "x(2)" LOC=E10;
+NET "x(3)" LOC=C10;
+
+#OUTOUT 설정 ; k
+NET "k(0)" LOC=C7;
+NET "k(1)" LOC=D5;
+NET "k(2)" LOC=D8;
+NET "k(3)" LOC=E7;

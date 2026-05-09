@@ -1,0 +1,23 @@
+## week10
+## week10_team05_ex6_case
+## 2학년 2반 2021041089 최태민. 2학년 2반 2021041043 서재권
+
+#INPUT 설정 ; x
+NET "x1(0)" LOC=R7; #slide switch
+NET "x1(1)" LOC=M7; 
+NET "x1(2)" LOC=E10;
+NET "x1(3)" LOC=C10;
+
+NET "x2(0)" LOC=P6; #slide switch
+NET "x2(1)" LOC=P4;
+NET "x2(2)" LOC=N5;
+NET "x2(3)" LOC=M6;
+
+NET "x3(8)" LOC=K11;	#push button
+NET "x3(9)" LOC=K14; 
+
+#OUTOUT 설정 ; k
+NET "k(0)" LOC=C7;	#led
+NET "k(1)" LOC=D5;
+NET "k(2)" LOC=D8;
+NET "k(3)" LOC=E7;
