@@ -1,0 +1,10 @@
+## week7
+## input_gate_vector_ex1
+## 2021041089_최태민, 2학년 2반 2019041066 송기준
+
+#input--switch
+net "x(0)" loc=r7;#sw x0
+net "x(1)" loc=m7; #sw x1
+net "x(2)" loc=e10; #sw x2
+#output--led
+net "y" loc=c7; # led y
