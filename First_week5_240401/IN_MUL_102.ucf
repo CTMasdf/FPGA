@@ -1,0 +1,12 @@
+#Week5
+#2학년 2반_ 2021041089_최태민
+#IN_MUL_102
+
+NET "A" LOC = R7;	#스위치 X1
+NET "B" LOC = M7;	#스위치 X2
+NET "C" LOC = E10;	#스위치 X3	
+NET "Y0" LOC = C7;	#LED Y0
+NET "Y1" LOC = D5;	#LED Y1
+NET "Y2" LOC = D8;	#LED Y2
+NET "Y3" LOC = E7;	#LED Y3
+NET "Y4" LOC = F7;	#LED Y4
