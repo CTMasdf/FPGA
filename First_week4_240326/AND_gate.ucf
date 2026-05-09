@@ -1,0 +1,7 @@
+#week4
+#AND_gate
+#2학년_2반_2021041089_최태민
+
+NET "X0" LOC = R7;	#입력 스위치 X0
+NET "X1" LOC = M7;	#입력 스위치 X1
+NET "Y0" LOC = C7;	#LED Y7

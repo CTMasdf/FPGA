@@ -1,0 +1,14 @@
+#week4
+#All_gate
+#2학년_2반_2021041089_최태민
+
+NET "X0" LOC = R7;	#입력 스위치 X0
+NET "X1" LOC = M7;	#입력 스위치 X1
+NET "X2" LOC = E10 ;	#입력 스위치 X2
+
+NET "Y0" LOC = C7;	#LED Y0
+NET "Y1" LOC = D5;	#LED Y1
+NET "Y2" LOC = D8;	#LED Y2
+NET "Y3" LOC = E7;	#LED Y3
+NET "Y4" LOC = F7;	#LED Y4
+NET "Y5" LOC = A12;	#LED Y5
