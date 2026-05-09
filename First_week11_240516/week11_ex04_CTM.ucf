@@ -1,0 +1,13 @@
+## week11
+## week11_ex04_CTM
+## 2학년_2반_2021041089_최태민
+
+
+#INPUT 설정 ; 
+NET "X(0)" LOC=R7; # X0 slide switch
+NET "X(1)" LOC=M7; # X1 slide switch
+NET "X(2)" LOC=E10;# X2 slide switch
+NET "X(3)" LOC=C10;# X3 slide switch
+
+#OUTOUT 설정 ; 
+NET "Y0" LOC=C7;	#led Y0
