@@ -1,0 +1,21 @@
+## 2학년 2반 2021041089 최태민
+## RS, D Flip-Flop
+
+# Clock-Input
+NET "CLK"	LOC = C10;	#X3
+
+# RS-INPUT
+NET "S" LOC = R7;	# X0
+NET "R" LOC = E10;	#X2
+
+# RS-OUTPUT
+NET "RS_Q" LOC = C7;	#Y0
+NET "RS_QVAR" LOC = D8;	#Y2
+
+# D-FF input
+NET "D" LOC = P6;	#X4
+
+# D-OUTPUT
+NET "D_Q" LOC = F7;	#Y4
+NET "D_QVAR" LOC=A14;	#Y6
+
