@@ -1,0 +1,13 @@
+## 2학년 2반 2021041089 최태민
+## JK, T Flip-Flop
+
+# Clock-Input
+NET "CLK"	LOC = C10;	#X3
+
+# T-FF input
+NET "T" LOC = P6;	#X4
+
+# T-OUTPUT
+NET "T_Q" LOC = F7;	#Y4
+NET "T_QVAR" LOC=A14;	#Y6
+
