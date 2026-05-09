@@ -34,14 +34,6 @@ FPGA 실습 및 팀 프로젝트 발표자료를 하나의 PDF로 정리했습�
 | 2학년 2학기 9주차 팀 프로젝트 | 폴더 추가 예정 | Johnson Counter Ring Counter Ripple Counter 설계 | [Johnson](https://youtu.be/vCX_CYNrqul) [Ring](https://youtu.be/B00bfulwpys) [Ripple](https://youtu.be/BZC5qBIQfkw) |
 | 2학년 2학기 10주차 팀 프로젝트 | 폴더 추가 예정 | 비동기식 RESET 8진 5진 Segment Counter Beep LOAD 기능 | [8진](https://youtu.be/DarWXztJbiU) [5진](https://youtu.be/IE1U33jugLM) [실습1](https://youtu.be/h2nBaQFZ4as) [실습2](https://youtu.be/EpnJecLublQ) |
 
-## 동작 영상 모음
-| 구분 | 영상 제목 | 링크 |
-|---|---|---|
-| Week4 실습1 | FPGA 실습1 Week4 X7 스위치 입력 Y7 LED 출력 Buffer | [영상 보기](https://youtu.be/A_xMtlQAUy8) |
-| Week4 실습2 | FPGA 실습2 Week4 2입력 AND Gate | [영상 보기](https://youtu.be/JCM5srvlBGA) |
-| Week4 실습3 | FPGA 실습3 Week4 3입력 OR Gate | [영상 보기](https://youtu.be/ifIAiSAXOr0) |
-| Week4 과제 | FPGA 과제 Week4 NOT OR XOR NAND NOR XNOR 1 2 3입력 혼합 | [영상 보기](https://youtu.be/fq0-KQaXvw0) |
-| Week5 과제 | FPGA 5주차 과제 3입력 게이트 Test Bench | [영상 보기](https://www.youtube.com/watch?v=l2-7cILv8yA) |
 
 ## 주요 학습 내용
 ### 1. 기본 논리 게이트 설계
