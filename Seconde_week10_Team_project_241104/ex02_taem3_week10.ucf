@@ -1,0 +1,31 @@
+# 2학년_3반_2021041091_한규철, 2021041089_최태민
+# ex02_team3_week10
+# 비동기식reset + 8진 segment counter + Beep
+
+#input
+net "CLK" LOC = C9;	# Clock
+net "RST" LOC = J12;	# EV3
+
+#ouput
+net "beep" LOC = E11;	# 부저
+
+#output
+net "Q(0)" LOC = A13;	# TR0
+net "Q(1)" LOC = B14;	# TR1
+net "Q(2)" LOC = C13;	# TR2
+net "Q(3)" LOC = D11;	# TR3
+
+#output
+net "SEG(0)" LOC = A8;	# a 
+net "SEG(1)" LOC = B8;	# b
+net "SEG(2)" LOC = C6;	# c
+net "SEG(3)" LOC = C8;	# d
+net "SEG(4)" LOC = D6;	# e
+net "SEG(5)" LOC = E6;	# f
+net "SEG(6)" LOC = A9;	# g
+net "SEG(7)" LOC = A11;	# dp
+
+
+
+
+

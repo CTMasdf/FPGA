@@ -1,0 +1,42 @@
+#2021041091 2학년 3반 한규철 2021041089 최태민 10주차 팀과제 3 - 1 동기식 리셋 16진 카운터 응용 ucf
+
+#input 
+net "CLK" loc = c9;  #clk
+net "RST" loc = j12; #ev3
+
+#input load
+net "load" loc = j14; #ev2
+
+#output - beep
+net "beep" loc = e11; #buzzer
+
+#ouput - pwm
+net "pwm_led(0)" loc = d12; #r
+net "pwm_led(1)" loc = d9;  #g
+net "pwm_led(2)" loc = c11; #b
+
+#output - team3(event)
+net "team3(0)" loc = b12;
+net "team3(1)" loc = a14;
+net "team3(2)" loc = a12;
+net "team3(3)" loc = f7;
+net "team3(4)" loc = e7;
+net "team3(5)" loc = d8;
+net "team3(6)" loc = d5;
+net "team3(7)" loc = c7;
+
+#output - q
+net "Q(0)" loc = a13; #tr1
+net "Q(1)" loc = b14; #tr2
+net "Q(2)" loc = c13; #tr3
+net "Q(3)" loc = d11; #tr4
+
+#output - 7segment
+net "SEG(0)" loc = a8; #a
+net "SEG(1)" loc = b8; #b
+net "SEG(2)" loc = c6; #c
+net "SEG(3)" loc = c8; #d
+net "SEG(4)" loc = d6; #e
+net "SEG(5)" loc = e6; #f 
+net "SEG(6)" loc = a9; #g
+net "SEG(7)" loc = a11; #dp
